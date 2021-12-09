@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA-java**
 
-- 📫 How to reach me **rudrojusupriya123@gmail.com**
+- 📫 How to reach me **rudrojusupriya123@gmail.com**                         ![image](https://user-images.githubusercontent.com/83066985/145443506-a0d46029-9cdb-4c1d-aa7f-eed5a4b7ab5f.png)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
