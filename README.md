@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supriya855&label=Profile%20views&color=0e75b6&style=flat" alt="supriya855" /> </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<img width="33%" align="right"   src="https://github.com/gursimarh/gursimarh/blob/main/workbench.svg" >
-<p align="left"> <a href="https://twitter.com/@supriyarudroju" target="blank"><img src="https://img.shields.io/twitter/follow/@supriyarudroju?logo=twitter&style=for-the-badge" alt="@supriyarudroju" /></a> </p>
+<img width="33%" align="right"   src="https://github.com/supriya855/blob/main/workbench.svg" >
 
 - 🌱 I’m currently learning **DSA-java**
 
