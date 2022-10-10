@@ -29,9 +29,3 @@
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supriya855&theme=radical&show_icons=true&locale=en" alt="supriya855" /></p>
-
-
-<p align="center">
-  <img src="https://github.com/supriya855/supriya855/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
-
