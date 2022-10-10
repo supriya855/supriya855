@@ -9,10 +9,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supriya855&label=Profile%20views&color=0e75b6&style=flat" alt="supriya855" /> </p>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <img align="right" height="300" width="350" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" />
-<p align="left"> <a href="https://twitter.com/supriyarudroju" target="blank"><img src="https://img.shields.io/twitter/follow/supriyarudroju?logo=twitter&style=for-the-badge" alt="supriyarudroju" /></a> </p>
+
 - 🌱 I’m currently learning **DSA-java**
 
 - 📫 How to reach me **rudrojusupriya123@gmail.com**
+- <p align="left"> <a href="https://twitter.com/supriyarudroju" target="blank"><img src="https://img.shields.io/twitter/follow/supriyarudroju?logo=twitter&style=for-the-badge" alt="supriyarudroju" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
