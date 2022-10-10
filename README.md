@@ -13,7 +13,7 @@
 - 🌱 I’m currently learning **DSA-java**
 
 - 📫 How to reach me **rudrojusupriya123@gmail.com**
-- <p align="left"> <a href="https://twitter.com/supriyarudroju" target="blank"><img src="https://img.shields.io/twitter/follow/supriyarudroju?logo=twitter&style=for-the-badge" alt="supriyarudroju" /></a> </p>
+<p align="left"> <a href="https://twitter.com/supriyarudroju" target="blank"><img src="https://img.shields.io/twitter/follow/supriyarudroju?logo=twitter&style=for-the-badge" alt="supriyarudroju" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
