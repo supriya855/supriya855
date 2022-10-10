@@ -23,9 +23,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supriya855" alt="supriya855" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supriya855&show_icons=true&locale=en" alt="supriya855" /></p>
+</p>
+<a align= "center" href="https://github.com/ishikkkkaaaa">
+<a align ="center" href="https://https://github.com/supriya855">
+<img alt="stat card"  height="200px" width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=supriya855&theme=radical">
+ <img align="right" height="350" width="400" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supriya855&theme=radical&show_icons=true&locale=en" alt="supriya855" /></p>
