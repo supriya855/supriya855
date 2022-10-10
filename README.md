@@ -1,4 +1,9 @@
-<h1 align="center">Hi 👋, I'm Supriya!</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Supriya Rudroju</h1>
+<h5 align="center">
+</h5>
 <h3 align="center">I'm enthusiastic person who loves to take up new difficulties and acquire new abilities</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supriya855&label=Profile%20views&color=0e75b6&style=flat" alt="supriya855" /> </p>
@@ -23,4 +28,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supriya855&show_icons=true&locale=en" alt="supriya855" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supriya855&" alt="supriya855" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supriya855&theme=radical" alt="supriya855" /></p>
